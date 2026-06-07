@@ -4,4 +4,3 @@ git status
 git add . or git add <filename> . [also stage changes]
 git status
 git commit -m "changes commit"
-git config --global user.email "samitshah497@gmail.com"git config --global user.name "Itz-Samit"
