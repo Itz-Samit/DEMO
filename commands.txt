@@ -16,4 +16,4 @@ git merge branch1 branch2 // merging two branches
 git branch -d branchname //for deleting branch
 git diff branch1 branch2git ;
 branch Shah;
-branch Samit;
+add line 19 in Samit;
